@@ -1,5 +1,5 @@
 ## Hi there, I am Rajibul Hazari.
-## You can reach out to me through rajibulhazari@gmail.com 
+## You can reach out to me through rajibulhazari786@gmail.com 
 
 
 <!--
