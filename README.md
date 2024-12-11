@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Rajibul Hazari.
+## You can reach out to me through rajibulhazari@gmail.com 
+
 
 <!--
 **rajibul2004/rajibul2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
