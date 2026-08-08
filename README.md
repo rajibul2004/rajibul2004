@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3c72,100:2a5298&height=220&section=header&text=Rajibul%20Hazari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20200%2B%20DSA&descAlignY=58&descSize=16&descColor=93c5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Rajibul%20Hazari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20200%2B%20DSA&descAlignY=58&descSize=16" width="100%"/>
 
-  <!-- Profile Image -->
-  <img src="./assets/profile.png" width="135" height="135" style="border-radius:50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); object-fit:cover;" alt="Rajibul Hazari"/>
+  <!-- Profile Image (Uses your live GitHub avatar) -->
+  <img src="https://github.com/rajibul2004.png" width="135" height="135" style="border-radius:50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); object-fit:cover;" alt="Rajibul Hazari"/>
 
   <br/><br/>
 
@@ -66,7 +66,7 @@ open_for: Software Engineering Internships & Full-Stack Opportunities
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibul2004&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rajibul2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -140,8 +140,13 @@ open_for: Software Engineering Internships & Full-Stack Opportunities
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rajibul2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibul2004&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rajibul2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rajibul2004&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajibul2004&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
