@@ -1,15 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Rajibul%20Hazari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rajibul%20Hazari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Intern;MERN+%2B+Next.js+Developer;200%2B+DSA+Problems+Solved;Exploring+AI+%2F+ML" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Intern;MERN+%2B+Next.js+Developer;200%2B+DSA+Problems+Solved;Exploring+AI+%2F+ML" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://rajibul-hazari.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-1e3c72?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
 <a href="https://www.linkedin.com/in/rajibulhazari786" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:rajibulhazari786@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<a href="https://leetcode.com/u/rajibulhazari/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/></a>
+
+</div>
+
+## 👋 About Me
+
+```yaml
+name: Rajibul Hazari
+role: Aspiring Full-Stack Developer
+location: Kalyani, Kolkata, India
+education: B.Tech in Information Technology (CGPA 9.38/10)
+university: Maulana Abul Kalam Azad University of Technology
+stack: [MERN, Next.js, TypeScript]
+dsa_solved: "200+ problems on LeetCode"
+currently_learning: [AI/ML fundamentals, TensorFlow]
+looking_for: Software Development Internship<a href="https://www.linkedin.com/in/rajibulhazari786" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
 <a href="mailto:rajibulhazari786@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
 <a href="https://leetcode.com/rajibul2004" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/></a>
 
