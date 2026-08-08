@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Rajibul%20Hazari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20%7C%20200%2B%20DSA&descAlignY=58&descSize=16" width="100%"/>
-
   <!-- Profile Image (Uses your live GitHub avatar) -->
   <img src="https://github.com/rajibul2004.png" width="135" height="135" style="border-radius:50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); object-fit:cover;" alt="Rajibul Hazari"/>
 
