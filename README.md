@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Image (Uses your live GitHub avatar) -->
-  <img src="https://github.com/rajibul2004.png" width="135" height="135" style="border-radius:50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); object-fit:cover;" alt="Rajibul Hazari"/>
+  <img src="/assets/picture.png" width="210" height="310" style="border-radius:50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); object-fit:contain;" alt="Rajibul Hazari"/>
 
   <br/><br/>
 
